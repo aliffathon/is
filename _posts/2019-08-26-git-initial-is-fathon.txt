@@ -274,3 +274,36 @@ github.io.		758	IN	NS	ns4.p16.dynect.net.
 ;; WHEN: Mon Aug 26 14:41:46 WIB 2019
 ;; MSG SIZE  rcvd: 365
 ~~~
+
+git status
+On branch gh-pages
+Your branch is up-to-date with 'origin/gh-pages'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+  .gitignore
+  _posts/2019-08-26-git-initial-is-fathon.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+git add _posts/2019-08-26-git-initial-is-fathon.txt 
+
+git add .gitignore 
+
+git commit -m "1-1-cara setup github pages untuk domain is-fathon"
+[gh-pages 2fe9f3f] 1-1-cara setup github pages untuk domain is-fathon
+ 2 files changed, 279 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 _posts/2019-08-26-git-initial-is-fathon.txt
+
+git push
+Counting objects: 5, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 2.64 KiB | 0 bytes/s, done.
+Total 5 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/aliffathon/is.git
+   3070786..2fe9f3f  gh-pages -> gh-pages
+
