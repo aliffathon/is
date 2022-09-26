@@ -12,7 +12,7 @@ author: toni
 
 # Setup MikroTik Server
 
-![1-server-mikrotik](#)
+![1-server-mikrotik](https://github.com/aliffathon/is/blob/b69fca08107b6112b91b5821d50126761408a495/_posts/mikrotik/1-server-mikrotik.png)
 
 ![2-interface-server](#)
 
