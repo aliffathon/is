@@ -12,10 +12,48 @@ author: toni
 
 # Setup MikroTik Server
 
+![1-server-mikrotik](#)
+
+![2-interface-server](#)
+
+![3-interface-wireguard](#)
+
+![4-add-ip-address](#)
+
 # Setup MikroTik Client
+
+![5-mikrotik-client](#)
+
+![6-interface-client](#)
+
+![7-ip-address-client](#)
+
+![8-test-ping-ke-client](#)
+
+![9-test-ping-ke-server](#)
 
 # Setup Android Client
 
+![18-mikrotik-peer-android](#)
+
 # Setup Windows 10 Client
+
+source: [https://www.smarthomebeginner.com/wireguard-windows-setup/](https://www.smarthomebeginner.com/wireguard-windows-setup/)
+
+![10-windows-download](#)
+
+![11-windows-gui](#)
+
+![12-windows-client-cofnig](#)
+
+![13-mikrotik-peer-windows](#)
+
+![14-windows-activate](#)
+
+![15-windows-connected](#)
+
+![16-windows-test-ping](#)
+
+![17-windows-interface](#)
 
 # Setup Linux Server Client
